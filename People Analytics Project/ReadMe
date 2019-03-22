@@ -1,0 +1,5 @@
+Condition1: Only people in the same dept can be matched.
+Condition2： Control cannot be match twiced unless under the same dept, the number of treated group exceeds the control group.
+Condition3: Use profit、size、wageindex to calculate similarity
+Condition4: Use euclidean metric
+Condition5: Use for, while etc to write code(not use exisiting greedy matching package )
